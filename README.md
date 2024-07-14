@@ -1,1 +1,4 @@
 An earthquake visualization project with different model testing
+
+Public link for Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiN2NjMWJiOWEtMDU2Mi00ZjhhLWI0MTYtMjdlMzZkZDA5YjA1IiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9
